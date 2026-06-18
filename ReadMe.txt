@@ -1,6 +1,6 @@
 Olá. Para rodar o sistema, basta rodar o App.java em: SistemaControleEstoque\src\main\java\sdedr
 
-Aparentemente o NetBeans não aceita rodar o javaFx por conta de alguma coisa do mave, então se você usa o NetBeans, vá até a pasta do App e execute no terminal (necessário o maven):
+Aparentemente o NetBeans não aceita rodar o javaFx por conta de alguma coisa do maven com o javaFx, então se você usa o NetBeans, vá até a pasta do App e execute no terminal (necessário o maven):
 
 mvn javafx:run <- windows
 
